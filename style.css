@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Bruno+Ace+SC&family=Castoro+Titling&family=Dosis:wght@500&family=EB+Garamond:ital@0;1&family=Open+Sans&family=Rock+Salt&family=Ysabeau:ital@1&display=swap');
+
+body {
+    text-align:center;
+    background-image: url("snake.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    font-family: 'Architects Daughter', cursive;
+        font-family: 'Bruno Ace SC', cursive;
+        font-family: 'Castoro Titling', cursive;
+        font-family: 'Dosis', sans-serif;
+        font-family: 'EB Garamond', serif;
+        font-family: 'Open Sans', sans-serif;
+        font-family: 'Rock Salt', cursive;
+        font-family: 'Ysabeau', sans-serif;
+    font-size: 50px;
+    border: 10px groove limegreen;
+    color: green;
+    background-color: black;
+    margin-right: 300px;
+    margin-left: 300px;
+}
+
+#restart{
+    font-size: 20px;
+    background-color: black;
+    color: green;
+    border: 3px solid lightgreen;
+    box-shadow:5px 5px 5px;
+    margin-top: 10px;
+}
+
+p{
+    font-family: 'Architects Daughter', cursive;
+        font-family: 'Bruno Ace SC', cursive;
+        font-family: 'Castoro Titling', cursive;
+        font-family: 'Dosis', sans-serif;
+        font-family: 'EB Garamond', serif;
+        font-family: 'Open Sans', sans-serif;
+        font-family: 'Rock Salt', cursive;
+        font-family: 'Ysabeau', sans-serif;
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#board {
+    border: 15px double limegreen;
+}
